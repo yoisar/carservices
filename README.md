@@ -47,9 +47,9 @@ OS: win32 x64
 	- Error handler
 	
 # Model
-	car_service_name:  Listados de servicios 
-	car:  Autos
-	owner: Propietarios
-	car_owner: Relacion de autos con propietarios
-	car_service: Infomracion de servicios 
-	car_service_details: Servicios realizados
+- car_service_name: Service listings
+- cars: Cars
+- owner: Owners
+- car_owner: Relationship of cars with owners
+- car_service: Car Service information
+- car_service_details: Services details
